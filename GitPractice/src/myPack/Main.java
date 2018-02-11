@@ -12,17 +12,17 @@ public class Main {
 		int rnd = new Random().nextInt(3);
 		switch(rnd){
 			case 0:
-				System.out.println("晴");
+				System.out.print("晴");
 				break;
 			case 1:
-				System.out.println("曇");
+				System.out.print("曇");
 				break;
 			case 2:
-				System.out.println("雨");
+				System.out.print("雨");
 			default:
 				break;
 		}
-
+		System.out.println("です。");
 
 	}
 
