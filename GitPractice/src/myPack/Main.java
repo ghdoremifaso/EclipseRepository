@@ -12,10 +12,10 @@ public class Main {
 		int rnd = new Random().nextInt(3);
 		switch(rnd){
 			case 0:
-				System.out.println("晴れ");
+				System.out.println("晴");
 				break;
 			case 1:
-				System.out.println("くもり");
+				System.out.println("曇");
 				break;
 			case 2:
 				System.out.println("雨");
