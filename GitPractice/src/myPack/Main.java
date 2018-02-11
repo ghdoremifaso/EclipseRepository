@@ -8,17 +8,17 @@ public class Main {
 
 		System.out.println("Hello World");
 
-		System.out.print("明日の天気は");
+		System.out.println("明日の天気は");
 		int rnd = new Random().nextInt(3);
 		switch(rnd){
 			case 0:
-				System.out.print("晴");
+				System.out.print("【晴】");
 				break;
 			case 1:
-				System.out.print("曇");
+				System.out.print("【曇】");
 				break;
 			case 2:
-				System.out.print("雨");
+				System.out.print("【雨】");
 			default:
 				break;
 		}
