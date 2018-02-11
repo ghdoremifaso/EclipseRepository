@@ -8,7 +8,7 @@ public class Main {
 
 		System.out.println("Hello World");
 
-		System.out.println("明日の天気は");
+		System.out.print("明日の天気は");
 		int rnd = new Random().nextInt(3);
 		switch(rnd){
 			case 0:
