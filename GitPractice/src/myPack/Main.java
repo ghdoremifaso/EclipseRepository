@@ -3,7 +3,7 @@ package myPack;
 import java.util.Random;
 
 //メイン
-//ブランチ切ってみた
+//ブランチ切ってみた2
 public class Main {
 
 	public static void main(String[] args){
