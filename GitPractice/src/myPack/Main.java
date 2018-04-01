@@ -2,8 +2,7 @@ package myPack;
 
 import java.util.Random;
 
-//メイン
-//ブランチ切ってみた2
+//remoteのmasterにpushしたつもり
 public class Main {
 
 	public static void main(String[] args){
