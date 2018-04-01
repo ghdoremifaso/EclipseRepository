@@ -2,6 +2,7 @@ package myPack;
 
 import java.util.Random;
 
+//メイン
 public class Main {
 
 	public static void main(String[] args){
